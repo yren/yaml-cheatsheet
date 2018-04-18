@@ -1,6 +1,7 @@
 # yaml cheatsheet
 
 * from http://docs.ansible.com/ansible/latest/YAMLSyntax.html
+* https://learn.getgrav.org/advanced/yaml
 * http://yaml.org/refcard.html - yaml ref card
 
 ## yaml basics
