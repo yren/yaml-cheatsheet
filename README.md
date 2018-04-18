@@ -3,6 +3,7 @@
 * from http://docs.ansible.com/ansible/latest/YAMLSyntax.html
 * https://learn.getgrav.org/advanced/yaml
 * http://yaml.org/refcard.html - yaml ref card
+* https://stackoverflow.com/questions/3790454/in-yaml-how-do-i-break-a-string-over-multiple-lines
 
 ## yaml basics
 * a small quirk to yaml, a yaml file start with `---` , end with `...`, eg:
